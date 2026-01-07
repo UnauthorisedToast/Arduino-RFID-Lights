@@ -1,1 +1,1 @@
-# Arduino-RFID-Lights
+This is a trial project that I used to help me understand how RFID card readers work. It compares the RFID card values to a pre-determined identification key and turns on an LED depending on whether the key is correct. If the key is a differnt pre-determined ID (meant to act as a second user), it turns on another LED. If neither of these match, no LED will turn on.
